@@ -204,8 +204,8 @@ int main() {
 		      	gotoxy(54, 13);cout<<"Integrantes: ";
 		      	gotoxy(44, 14);cout<<"Rivas, Guillermo    8-956-469";
 		      	gotoxy(44, 15);cout<<"Calvo, Ezequiel     8-929-1899";
-		      	gotoxy(44, 16);cout<<"Eric Mason          3-747-343";
-		      	gotoxy(44, 17);cout<<"Franklin Pablú      8-955-2298";
+		      	gotoxy(44, 16);cout<<"Mason, Eric          3-747-343";
+		      	gotoxy(44, 17);cout<<"Pablú, Franklin      8-955-2298";
 		      	gotoxy(55, 20);cout<<"Profesora: ";
 		      	gotoxy(54, 22);cout<<"Cueto, Doris";
 		      	gotoxy(57, 24);cout<<"Fecha:";
